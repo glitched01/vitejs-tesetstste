@@ -16,7 +16,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
       <button id="counter" type="button"></button>
     </div>
     <p class="read-the-docs">
-      Click on the Sucka!
+      Click ofdg sfg sdfgdfsgucka!
     </p>
   </div>
 `
